@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef TADEM_H
 #define TADEM_H
 
@@ -89,3 +90,10 @@ void f_stack(stack_t **head, unsigned int counter);
 
 
 #endif
+=======
+#ifndef MONTY_H
+
+#define MONTY_H
+
+#endif /*MONTY_H*/
+>>>>>>> 7d2c280721d4bb41c4d43f9739d6f48ea01dc700
